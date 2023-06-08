@@ -1,0 +1,5 @@
+.env
+/venv/
+.chainlit/
+__pycache__/
+```
